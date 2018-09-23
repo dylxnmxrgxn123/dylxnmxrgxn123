@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Coding on spreadsheets </td>
-    <td>Date</td>
+    <th>Date</th>
     <td>19/09/18</td>
   </tr>
 </table>
@@ -18,15 +18,15 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Open google sheets</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Create a working encoding sheet</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>Yes</td>
   </tr>
 </table>
@@ -34,31 +34,31 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <th>How did you use your learning habits this week?</th>
     <td></td>
   </tr>
   <tr>
-    <td>Persevering</td>
+    <th>Persevering</th>
     <td>I had to persevere as at first my spreadsheet was not working. I carried on trying and eventually I succeeded in getting the work right.</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
+    <th>Questioning?</th>
     <td>I questioned my partner on how to do the work as he had completed it before me. This helped me finish the work.</td>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td>I had to be independent when I was doing the work for periods of time as this helped me do the work more effectively in some places.</td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>I had to reflect on what Mr Keen had told us at the start of the lesson so I could remember what to do for the work.</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td>I engaged in the discussion by putting forward points on the work.</td>
   </tr>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <th>What could have gone better in your learning?</th>
     <td></td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <th>What changes do you need to make to improve your learning next time?</th>
     <td></td>
   </tr>
   <tr>
